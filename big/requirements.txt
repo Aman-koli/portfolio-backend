@@ -1,5 +1,0 @@
-django
-django-cors-headers
-gunicorn
-whitenoise
-pillow
